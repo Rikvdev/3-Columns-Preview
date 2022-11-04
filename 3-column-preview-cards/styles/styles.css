@@ -71,7 +71,6 @@ body {
     display: inline-block;
     text-decoration: none;
     background-color:var(--Very-light-gray);
-    margin-bottom: 1em;
     padding: 1em 2em;
     border: 1px solid var(--Very-light-gray);
     border-radius: 2em;
