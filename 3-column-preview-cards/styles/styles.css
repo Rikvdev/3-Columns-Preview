@@ -28,7 +28,7 @@ body {
 .cards { 
     display: grid;
     grid-template-columns: repeat(3, 307px);
-    margin: 0 auto;
+    margin: 87px auto;
     border-radius: 8px;
     overflow: hidden;
 }
